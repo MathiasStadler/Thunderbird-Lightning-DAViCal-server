@@ -27,6 +27,18 @@ Thunderbird Lightning DAViCal server is docker images
 > docker run --name mydavical --publish=80:80 natansdj/davical
 ```
 
+- login on
+
+```bash
+ firefox http://localeip
+```
+
+- credential: user/password admin/12345
+- @TODO create user in DAViCal
+- @TODO import in thunderbird-Lightning
+
+
+
 
 
 
