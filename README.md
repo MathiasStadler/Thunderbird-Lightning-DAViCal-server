@@ -37,8 +37,8 @@ Thunderbird Lightning DAViCal server is docker images
 
 ## settings devices for
 
--[BB10](http://support.blackberry.com/kb/articleDetail?ArticleNumber=000033093)
--[BB10](https://www.a1blog.net/2013/05/08/blackberry-10-tipp-synchronisation-der-kontakte-und-termine-mit-der-icloud/)
+- [BB10](http://support.blackberry.com/kb/articleDetail?ArticleNumber=000033093)
+- [BB10](https://www.a1blog.net/2013/05/08/blackberry-10-tipp-synchronisation-der-kontakte-und-termine-mit-der-icloud/)
 
 ## docker housekeeping
 
